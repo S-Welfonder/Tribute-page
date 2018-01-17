@@ -1,0 +1,42 @@
+
+
+.main {
+  background-color:
+}
+
+.murakami {
+  width: 540px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.mainTitle {
+  font-family: cambria;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+q {
+  font-family: cambria;
+  font-size: 18px;
+}
+
+.biography {
+  font-family: bookman;
+  font-size: 16px;
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.sign {
+  margin-top: 30px;
+  border-top: ridge;
+  border-bottom: ridge;
+  padding: 5px 0 5px;
+}
+
+.wiki {
+  margin-top: 20px;
+}
